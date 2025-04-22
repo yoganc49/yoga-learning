@@ -1,2 +1,3 @@
 # yoga-learning
-Tjis is my Learning first github lab
+This is my Learning first github lab
+Author Yogananda
