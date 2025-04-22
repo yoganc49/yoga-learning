@@ -1,2 +1,2 @@
 # yoga-learning
-Learning
+Tjis is my Learning first github lab
